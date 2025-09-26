@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/eternal200/DSA---PREP/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/eternal200/DSA---PREP/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/eternal200/DSA---PREP/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -18,10 +19,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eternal200/DSA---PREP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/eternal200/DSA---PREP/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eternal200/DSA---PREP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/eternal200/DSA---PREP/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
