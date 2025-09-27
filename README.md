@@ -29,4 +29,16 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eternal200/DSA---PREP/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/eternal200/DSA---PREP/tree/master/0018-4sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/eternal200/DSA---PREP/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/eternal200/DSA---PREP/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
