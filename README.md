@@ -34,10 +34,12 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/eternal200/DSA---PREP/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/eternal200/DSA---PREP/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/eternal200/DSA---PREP/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/eternal200/DSA---PREP/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
