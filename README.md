@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/eternal200/DSA---PREP/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/eternal200/DSA---PREP/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/eternal200/DSA---PREP/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/eternal200/DSA---PREP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/eternal200/DSA---PREP/tree/master/0027-remove-element) |
 ## Sorting
 |  |
